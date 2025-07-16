@@ -11,7 +11,7 @@ public class BigInteger {
         return (num1.equals(num2)) || (num2.equals(num3)) || (num1.equals(num3)); // fix this line
     }
 
-    /* Do not change code below */
+
     public static void main(String[] args) {
         final Scanner scanner = new Scanner(System.in);
 
