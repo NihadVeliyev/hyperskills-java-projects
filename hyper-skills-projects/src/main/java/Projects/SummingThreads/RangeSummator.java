@@ -1,6 +1,6 @@
 package Projects.SummingThreads;
 
- class RangeSummator extends Thread {
+ public class RangeSummator extends Thread {
 
     int fromIncl;
     int toIncl;
@@ -28,4 +28,4 @@ package Projects.SummingThreads;
         return result;
     }
 }
-}
+

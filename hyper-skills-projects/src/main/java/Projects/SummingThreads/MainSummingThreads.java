@@ -1,4 +1,7 @@
-package Projects.SummingThreads;
+
+
+
+import Projects.SummingThreads.RangeSummator;
 
 import java.util.Scanner;
 
