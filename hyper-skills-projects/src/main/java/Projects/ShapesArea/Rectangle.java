@@ -1,4 +1,4 @@
 package Projects.ShapesArea;
 
-public class Rectangle {
+public class Rectangle extends Shape{
 }

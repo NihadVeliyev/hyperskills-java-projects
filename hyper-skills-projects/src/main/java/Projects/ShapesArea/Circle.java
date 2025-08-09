@@ -1,4 +1,4 @@
 package Projects.ShapesArea;
 
-public class Circle {
+public class Circle extends Shape{
 }
