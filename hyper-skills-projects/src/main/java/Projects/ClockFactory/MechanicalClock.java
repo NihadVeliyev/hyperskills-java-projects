@@ -1,4 +1,4 @@
 package Projects.ClockFactory;
 
-public class MechanicalClock extends ClockFactory{
+public class MechanicalClock implements Clock {
 }
