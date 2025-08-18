@@ -4,7 +4,6 @@ abstract class Meal {
 
 
     public void doMeal() {
-        // write your code here ...
         this.prepareIngredients();
         this.cook();
         this.eat();
